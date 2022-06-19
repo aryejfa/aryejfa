@@ -5,8 +5,9 @@
 
 </a>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=aryejfa)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 ## Hi There 👋
@@ -23,7 +24,7 @@ I'm Ary, I'm an Indonesian Software Engineer 👨‍💻 who is passionate about
 - ⚡ Technologies: Node.js, React JS, Express JS, Next JS, Gatsby, React Native, PHP, Mongo DB , MySql, SQL Server, Docker, Ubuntu Server, Centos Server, RabbitMQ
 , Jenkins, SonarQube, Agile Methodology.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/aryejfa">
     <img
       align="center"
