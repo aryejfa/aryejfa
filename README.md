@@ -24,11 +24,7 @@ I'm Ary, I'm an Indonesian Software Engineer 👨‍💻 who is passionate about
 
 <p align="left">
   <a href="https://github.com/aryejfa">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=aryejfa&show_icons=true&theme=dracul"
-    />
+    <img align="center" alt="EJFA" src="https://github-readme-stats.vercel.app/api?username=aryejfa&theme=dark&show_icons=true&hide_border=false" />
   </a>
   
 </p>
