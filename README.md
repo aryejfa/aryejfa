@@ -35,4 +35,5 @@ I'm Ary, I'm an Indonesian Software Engineer 👨‍💻 who is passionate about
 
 #
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=aryejfa&theme=blue-green)
+<img align="center" alt="Ricky Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryejfa&theme=dark&show_icons=true&layout=compact"/>
+
