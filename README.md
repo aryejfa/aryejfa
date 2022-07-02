@@ -11,7 +11,7 @@
 
 ## Hi There 👋
 
-I'm Ary, I'm an Indonesian Software Engineer 👨‍💻 who is passionate about JavaScript, PHP, and Golang technologies.
+I'm Ary, I'm an Software Engineer in Indonesian 👨‍💻 who is passionate about JavaScript, PHP, and Golang technologies.
 - 🔭 Currently i am working in company in indonesian
 - 🔭 Ex Smartfren as Software Engineer
 - 🔭 Ex Bussan Auto Finance as Software Engineer
