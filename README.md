@@ -20,7 +20,7 @@ I'm Ary, I'm an Indonesian Software Engineer 👨‍💻 who is passionate about
 - 🔭 I’m currently working as Software Engineer with Javascript, PHP and researching how to achieve better performance and scalable Application.
 - 🔭 I'm open source enthusiast especially about Node JS, React JS, React Native, PHP, and Golang.
 
-- ⚡ Technologies: Node.js, React JS, Express JS, Next JS, Gatsby, React Native, PHP, Golang, Mongo DB , MySql, SQL Server, Docker, Ubuntu Server, Centos Server, RabbitMQ, Jenkins, SonarQube, Agile Methodology.
+- ⚡ Technologies: Node.js, React JS, Express JS, Next JS, Gatsby, React Native, PHP, Golang, Mongo DB , Elasticsearch, Redis, MySql, SQL Server, Docker, Ubuntu Server, Centos Server, RabbitMQ, Jenkins, SonarQube, Agile Methodology.
 
 <p align="left">
   <a href="https://github.com/aryejfa">
