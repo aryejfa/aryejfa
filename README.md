@@ -12,9 +12,7 @@
 ## Hi There 👋
 
 I'm Ary, I'm an Software Engineer in Indonesian 👨‍💻 who is passionate about JavaScript, PHP, and Golang technologies.
-- 🔭 Currently i am working in company in indonesian
-- 🔭 Ex Smartfren as Software Engineer
-- 🔭 Ex Bussan Auto Finance as Software Engineer
+- 🔭 Currently i am working in XL Axiata as Software Engineer
 - 🔭 Ex Kreatifhub.com as Software Engineer
 - 🔭 Ex Telkomsel as Software Engineer
 - 🔭 I’m currently working as Software Engineer with Javascript, PHP and researching how to achieve better performance and scalable Application.
