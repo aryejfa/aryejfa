@@ -11,7 +11,7 @@
 
 ## Hi There 👋
 
-I'm Ary, I'm an Software Engineer in Indonesian 👨‍💻 who is passionate about React, PHP, and Node.js technologies.
+I'm Ary, I'm an Software Engineer in Indonesian 👨‍💻 who is passionate about React, PHP, Node.js, and Golang technologies.
 - 🔭 Currently i am working in Jakarta Company as Software Engineer
 - 🔭 Ex Kreatifhub.com as Software Engineer
 - 🔭 Ex Telkomsel as Software Engineer
