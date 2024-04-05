@@ -13,7 +13,7 @@
 
 I'm Ary, I'm an Software Engineer in Indonesian 👨‍💻 who is passionate about React, PHP, Node.js, and Golang technologies.
 - 🔭 Currently i am working in Jakarta, Indonesia UPMedia Company as Head Of Information Technology
-- 🔭 Currently i am working in Kuala Lumpur, Malaysia Company as Software Engineer
+- 🔭 Also Currently i am working in Kuala Lumpur, Malaysia Company as Software Engineer
 - 🔭 Ex Axiata Digital Labs as Software Engineer
 - 🔭 Ex Kreatifhub.com as Software Engineer
 - 🔭 Ex Telkomsel as Software Engineer
