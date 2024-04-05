@@ -12,7 +12,8 @@
 ## Hi There 👋
 
 I'm Ary, I'm an Software Engineer in Indonesian 👨‍💻 who is passionate about React, PHP, Node.js, and Golang technologies.
-- 🔭 Currently i am working in Jakarta Company as Software Engineer
+- 🔭 Currently i am working in Kuala Lumpur, Malaysia Company as Software Engineer
+- 🔭 Ex xl.co.id as Software Engineer
 - 🔭 Ex Kreatifhub.com as Software Engineer
 - 🔭 Ex Telkomsel as Software Engineer
 - 🔭 I’m currently working as Software Engineer with Node.js, React, PHP and researching how to achieve better performance and scalable Application.
