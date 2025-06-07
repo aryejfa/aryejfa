@@ -16,7 +16,7 @@ I'm Ary, I'm an Software Engineer in Indonesian 👨‍💻 who is passionate ab
 - 🔭 Ex Axiata Digital Labs as Software Engineer
 - 🔭 Ex Kreatifhub.com as Software Engineer
 - 🔭 Ex Telkomsel as Software Engineer
-- 🔭 I’m currently working as Software Engineer with Node.js, React, PHP and researching how to achieve better performance and scalable Application.
+- 🔭 I’m currently working as Software Engineer with Node.js, React, JAVA, Python, PHP, Golang and researching how to achieve better performance and scalable Application.
 - 🔭 I'm open source enthusiast especially about JAVA, Python, Node JS, React JS, React Native, PHP, and Golang.
 
 - ⚡ Technologies: Node.js, JAVA, Python, React JS, Angular, Vue JS, Express JS, Next JS, Gatsby, React Native, PHP, Golang, Mongo DB , Elasticsearch, Redis, MySql, SQL Server, Docker, Ubuntu Server, Centos Server, RabbitMQ, Jenkins, SonarQube, Agile Methodology.
