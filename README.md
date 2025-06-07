@@ -11,15 +11,15 @@
 
 ## Hi There 👋
 
-I'm Ary, I'm an Software Engineer in Indonesian 👨‍💻 who is passionate about React, PHP, Node.js, and Golang technologies.
+I'm Ary, I'm an Software Engineer in Indonesian 👨‍💻 who is passionate about React, JAVA, PHP, Python, Node.js, and Golang technologies.
 - 🔭 Currently i am working in Kuala Lumpur, Malaysia Company as Software Engineer
 - 🔭 Ex Axiata Digital Labs as Software Engineer
 - 🔭 Ex Kreatifhub.com as Software Engineer
 - 🔭 Ex Telkomsel as Software Engineer
 - 🔭 I’m currently working as Software Engineer with Node.js, React, PHP and researching how to achieve better performance and scalable Application.
-- 🔭 I'm open source enthusiast especially about Node JS, React JS, React Native, PHP, and Golang.
+- 🔭 I'm open source enthusiast especially about JAVA, Python, Node JS, React JS, React Native, PHP, and Golang.
 
-- ⚡ Technologies: Node.js, React JS, Angular, Vue JS, Express JS, Next JS, Gatsby, React Native, PHP, Golang, Mongo DB , Elasticsearch, Redis, MySql, SQL Server, Docker, Ubuntu Server, Centos Server, RabbitMQ, Jenkins, SonarQube, Agile Methodology.
+- ⚡ Technologies: Node.js, JAVA, Python, React JS, Angular, Vue JS, Express JS, Next JS, Gatsby, React Native, PHP, Golang, Mongo DB , Elasticsearch, Redis, MySql, SQL Server, Docker, Ubuntu Server, Centos Server, RabbitMQ, Jenkins, SonarQube, Agile Methodology.
 
 <p align="left">
   <a href="https://github.com/aryejfa">
